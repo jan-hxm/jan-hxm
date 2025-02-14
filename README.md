@@ -26,7 +26,7 @@
 ### 🌱 Currently Learning
 I’m expanding my knowledge in:
 - **Advanced Vue.js 3 & TypeScript**
-- **Microservices & Cloud Deployment**
+- **Cloud Deployment with Kubernetes**
 - **Scalable Backend Architectures with Go & Python**
 
 ---
