@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 What I Do
-🔹 I develop **intuitive** and **scalable** web applications by leveraging modern JavaScript frameworks like Vue.js and optimizing performance with best practices in frontend and backend development.
+🔹 I develop **intuitive** and **scalable** web applications with modern JavaScript frameworks like Vue.js and optimizing performance with best practices in frontend and backend development.
 
 🔹 My focus is on **modular architectures**, **efficient state management**, and **cloud-native deployments**, ensuring that applications are maintainable and can handle high traffic.
 
