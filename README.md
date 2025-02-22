@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jan</h1>
 
 <p align="center">
-  <b>Passionate Software Developer</b> | Specializing in <b>Modern Web Technologies</b> 🚀
+  <b>Passionate Software Developer</b> | Specializing in <b>Modern Web Technologies</b> like VueJS🚀
 </p>
 
 ---
@@ -15,17 +15,15 @@
 ---
 
 ### 🚀 What I Do
-🔹 I develop **intuitive** and **scalable** web applications with modern JavaScript frameworks like Vue.js and optimizing performance with best practices in frontend and backend development.
-
-🔹 My focus is on **modular architectures**, **efficient state management**, and **cloud-native deployments**, ensuring that applications are maintainable and can handle high traffic.
-
-🔹 I integrate **DevOps principles** to automate workflows, improve CI/CD pipelines, and streamline development processes.
+- I develop **intuitive** and **scalable** web applications with modern JavaScript frameworks like Vue.js and React.
+- My focus is on **modular architectures**, **efficient state management**, and **cloud-native deployments**, ensuring that applications are maintainable and can handle high traffic.
+- I integrate **DevOps principles** to automate workflows, improve CI/CD pipelines, and streamline development processes.
 
 ---
 
 ### 🌱 Currently Learning
 I’m expanding my knowledge in:
-- **Advanced Vue.js 3 & TypeScript**
+- **Advanced Vue.js 3, Electron and Typescript**
 - **Cloud Deployment with Kubernetes**
 - **Scalable Backend Architectures with Go & Python**
 
