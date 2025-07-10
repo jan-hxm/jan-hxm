@@ -8,9 +8,8 @@
 
 ### 🎯 Currently working on
 
-**Sysadmin** Training for the LFCS exam
-
-**DevOps** Training for the Linux Foundation Kubestronaut exams
+- **Sysadmin:** Training for the LFCS exam
+- **DevOps:** Training for the Linux Foundation Kubestronaut exams
 
 ### 📫 Get in Touch
 📧 **Email**: jan.henke01@gmail.com  
