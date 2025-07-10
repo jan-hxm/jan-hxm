@@ -7,7 +7,9 @@
 ---
 
 ### 🎯 Currently working on
+
 **Sysadmin** Training for the LFCS exam
+
 **DevOps** Training for the Linux Foundation Kubestronaut exams
 
 ### 📫 Get in Touch
