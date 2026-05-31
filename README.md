@@ -1,15 +1,12 @@
-<h1 align="center">👋 Hi, I’m Jan</h1>
-
+<h1 align="center">👋 Hi, I'm Jan</h1>
 <p align="center">
-  <b>Passionate Software Developer</b> | Specializing in <b>Web Development</b> with VueJS and <b>DevOps with Kubernetes</b>🚀
+  <b>Software Developer & Infrastructure Engineer</b> — specializing in <b>Linux systems</b>, <b>Kubernetes</b>, and <b>DevOps automation</b> 🚀
 </p>
 
 ---
 
-### 🎯 Currently working on
-
-- **Sysadmin:** Training for the LFCS exam
-- **DevOps:** Training for the Linux Foundation Kubestronaut exams
+### 🛠️ Tech I work with
+`Kubernetes` `k3s` `Ansible` `Go` `Linux` `Docker` `VueJS` `Bash`
 
 ### 📫 Get in Touch
 📧 **Email**: jan.henke01@gmail.com  
